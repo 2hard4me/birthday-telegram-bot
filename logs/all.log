@@ -1,0 +1,13 @@
+{"file":"main.go:62","func":"main.main()","level":"fatal","msg":"failed to initialize database: sql: unknown driver \"postgres\" (forgotten import?)","time":"2024-06-04T19:37:12+03:00"}
+{"file":"main.go:62","func":"main.main()","level":"fatal","msg":"failed to initialize database: sql: unknown driver \"postgres\" (forgotten import?)","time":"2024-06-04T19:43:22+03:00"}
+{"file":"main.go:62","func":"main.main()","level":"fatal","msg":"failed to initialize database: sql: unknown driver \"postgres\" (forgotten import?)","time":"2024-06-04T19:46:44+03:00"}
+{"file":"main.go:69","func":"main.main()","level":"fatal","msg":"Connection to the database is not alive: pq: \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \"postgres\" \ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd (\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)","time":"2024-06-04T19:49:12+03:00"}
+{"file":"main.go:85","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:49:40+03:00"}
+{"file":"main.go:85","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:50:36+03:00"}
+{"file":"main.go:85","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:55:39+03:00"}
+{"file":"main.go:86","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:57:04+03:00"}
+{"file":"main.go:86","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:57:23+03:00"}
+{"file":"main.go:86","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:57:42+03:00"}
+{"file":"main.go:87","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:58:15+03:00"}
+{"file":"main.go:87","func":"main.main()","level":"fatal","msg":"failed to create a bot instance: empty token","time":"2024-06-04T19:58:39+03:00"}
+{"file":"main.go:69","func":"main.main()","level":"fatal","msg":"Connection to the database is not alive: pq: \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \"postgres\" \ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd (\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)","time":"2024-06-04T20:23:20+03:00"}
