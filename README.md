@@ -1,7 +1,7 @@
 # Telegram Happy Birthday Bot
 
 ## Often forgetting when the birthday of your friend is? This won’t happen again!
-I am **HappyBirthdayBot** and I’ll make sure your friends are happy when their birthdays come! 
+I am **Happy Birthday Bot** and I’ll make sure your friends are happy when their birthdays come! 
 
 All you need to do is to add any birthday you want to rememeber.
 When the day comes I’ll send you a reminder.
