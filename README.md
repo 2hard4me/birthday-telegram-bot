@@ -10,6 +10,11 @@ With me it’s **impossible** to forget about birthdays of your friends!
 
 #Commands
 /add [Enter name] - Adds birthday of someone you care.
+
 /showall - Shows all birthdays you want to keep track of.
+
 /Remove - Removes a birthday you no longer want to remember.
+
 /Search - Allows you to search any birthday by date, day, month or name.
+
+
