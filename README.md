@@ -11,7 +11,7 @@ When the day comes I’ll send you a reminder.
 With me it’s **impossible** to forget about birthdays of your friends! 
 
 
-#Commands
+# Commands
 /add [Enter name] - Adds birthday of someone you care.
 
 /showall - Shows all birthdays you want to keep track of.
